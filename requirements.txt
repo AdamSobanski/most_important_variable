@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.43.2
 pycaret==3.3.2
-pandas==2.1.4
-matplotlib
+pandas
+matplotlib==3.7.5
